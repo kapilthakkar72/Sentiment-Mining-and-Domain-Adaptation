@@ -1,0 +1,12 @@
+3
+None
+I tried following this:
+1. Source Only
+2. Target Only
+3. Source + Target
+4. Source as a feature for Target
+5. Giving more weightage for Target while training with Source
+6. Giving hashtags more weights
+7. Giving domain specific features (name of related politicians) more weightage
+The best worked was Source as a feature for target
+
